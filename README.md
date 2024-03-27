@@ -4,8 +4,8 @@ Requirements
     numpy
 
     1.Clone the repository: https://github.com/liakopal/AirportControlSystem.git
-    1.Navigate to the project directory: cd airport-control-system
-    1.Install the required packages: pip install -r requirements.txt
+    2.Navigate to the project directory: cd airport-control-system
+    3.Install the required packages: pip install -r requirements.txt
 
 Usage
 
